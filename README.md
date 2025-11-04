@@ -15,6 +15,7 @@ A simple Chrome Extension that displays the **title of your current browser tab*
 
 ## 🏗️ Project Structure
 
+```
 tab-title-extension/
 |
 ├── manifest.json # Extension configuration file
@@ -24,7 +25,7 @@ tab-title-extension/
 ├── popup.js # Logic to fetch and display tab title
 |
 └── icon.png # Toolbar icon
-
+```
 ---
 
 ## ⚙️ How It Works
