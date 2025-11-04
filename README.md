@@ -49,7 +49,7 @@ tab-title-extension/
    git clone https://github.com/Likhita-nanda/tab-title-grabber.git
 2. Open Chrome and go to:
 
-   chrome://extensions
+       chrome://extensions
 
 3. Enable Developer Mode (top-right corner)
 
