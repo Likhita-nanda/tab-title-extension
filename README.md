@@ -8,7 +8,7 @@ A simple Chrome Extension that displays the **title of your current browser tab*
 [Click here to view the live website](https://likhita-nanda.github.io/house_of_feast_menu/)
 
 
-[GitHub Repository](https://github.com/Likhita-nanda/house_of_feast_menu)
+[GitHub Repository](https://github.com/Likhita-nanda/tab-title-extension)
 
 ---
 
@@ -42,5 +42,20 @@ tab-title-extension/
 2. The popup appears with a **“Get Tab Title”** button  
 3. When clicked, it fetches the **title of your active tab** and displays it below the button  
 
+## 🪜 Steps to Install Locally
 
+1. **Download or clone this repository**  
+   ```bash
+   git clone https://github.com/Likhita-nanda/tab-title-grabber.git
+2. Open Chrome and go to:
+
+   chrome://extensions
+
+3. Enable Developer Mode (top-right corner)
+
+4. Click “Load unpacked” and select your project folder.
+
+5. Pin the extension to your toolbar (🧩 icon → Pin).
+
+6. Click the extension → Click “Get Tab Title” → See the current tab’s title appear!
 
