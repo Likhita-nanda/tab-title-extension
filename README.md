@@ -45,8 +45,7 @@ tab-title-extension/
 ## 🪜 Steps to Install Locally
 
 1. **Download or clone this repository**  
-   ```bash
-   git clone https://github.com/Likhita-nanda/tab-title-grabber.git
+  
 2. Open Chrome and go to:
 
        chrome://extensions
