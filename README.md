@@ -5,7 +5,7 @@ A simple Chrome Extension that displays the **title of your current browser tab*
 ---
 
 ## 🔗 Live Demo
-[Click here to view the live website](https://likhita-nanda.github.io/house_of_feast_menu/)
+[Click here to view the live website](https://likhita-nanda.github.io/tab-title-extension/)
 
 
 [GitHub Repository](https://github.com/Likhita-nanda/tab-title-extension)
