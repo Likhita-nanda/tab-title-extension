@@ -1,0 +1,11 @@
+{
+  "name": "Tab Title Grabber",
+  "description": "Shows the title of the current tab",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"]
+}
